@@ -1,6 +1,6 @@
 # sesion_4
 
-A new Flutter project.
+A new Flutter project. With basic use of widgets
 
 ## Getting Started
 
